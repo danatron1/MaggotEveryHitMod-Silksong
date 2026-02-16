@@ -6,8 +6,8 @@ namespace MaggotEveryHitMod
     [BepInAutoPlugin(id: ModId, name: ModName, version: ModVersion)]
     public partial class MaggotEveryHitPlugin : BaseUnityPlugin
     {
-        private const string ModId = "io.github.danatron1.MaggotEveryHitMod";
-        private const string ModName = "MaggotEveryHit";
+        private const string ModId = "github.com/danatron1/MaggotEveryHitMod-Silksong";
+        private const string ModName = "MaggotEveryHit"; 
         private const string ModVersion = "1.0.0";
 
         internal static MaggotEveryHitPlugin instance;

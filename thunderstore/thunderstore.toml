@@ -8,7 +8,7 @@ namespace = "danatron1"
 description = "Inflicts the maggot debuff whenever the player takes damage"
 
 # Replace this with a correct repo URL if the default is not accurate
-websiteUrl = "https://github.com/danatron1/ExampleSilksongMod"
+websiteUrl = "https://github.com/danatron1/MaggotEveryHitMod-Silksong"
 containsNsfwContent = false
 
 
