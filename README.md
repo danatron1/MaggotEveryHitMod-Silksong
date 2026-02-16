@@ -1,6 +1,6 @@
 # Maggot Every Hit
 
-Download it via the [latest github release](https://github.com/danatron1/MaggotEveryHitMod-Silksong/releases) or through thunderstore(add thunderstore link)
+Download it via the [latest github release](https://github.com/danatron1/MaggotEveryHitMod-Silksong/releases) or through [thunderstore](https://thunderstore.io/c/hollow-knight-silksong/p/danatron1/MaggotEveryHitMod/)
 
 Mod can be configured through r2modman, enabling or disabling:
 * Maggot every hit
