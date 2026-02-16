@@ -7,7 +7,7 @@ namespace MaggotEveryHitMod
     public partial class MaggotEveryHitPlugin : BaseUnityPlugin
     {
         private const string ModId = "github.com/danatron1/MaggotEveryHitMod-Silksong";
-        private const string ModName = "MaggotEveryHit";
+        private const string ModName = "MaggotEveryHit"; 
         private const string ModVersion = "1.0.0";
 
         internal static MaggotEveryHitPlugin instance;
