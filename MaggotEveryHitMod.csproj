@@ -21,7 +21,7 @@
 
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>icon.png</PackageIcon>
-    <RepositoryUrl>https://github.com/danatron1/ExampleSilksongMod</RepositoryUrl>
+    <RepositoryUrl>https://github.com/danatron1/MaggotEveryHitMod-Silksong</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="BepInEx.Analyzers" Version="1.0.8" PrivateAssets="all" />
