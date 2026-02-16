@@ -8,7 +8,7 @@ namespace MaggotEveryHitMod
     {
         private const string ModId = "danatron1-MaggotEveryHitMod-Silksong";
         private const string ModName = "MaggotEveryHit"; 
-        private const string ModVersion = "1.0.0";
+        private const string ModVersion = "1.0.1"; //When updating, also change in thunderstore.toml & Directory.Build.props
 
         internal static MaggotEveryHitPlugin instance;
         private readonly Harmony harmony = new(ModId);
